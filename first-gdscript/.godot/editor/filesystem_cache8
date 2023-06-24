@@ -1,0 +1,6 @@
+2a60927148abd1d33b818b535e306557
+::res://::1687621791
+icon.png::CompressedTexture2D::404256851404668054::1687516242::1687516242::1::::<><>::
+icon.svg::CompressedTexture2D::2447491999639871923::1687516157::1687516163::1::::<><>::
+sprite_2d.gd::GDScript::-1::1687618454::0::1::::<>Sprite2D<>::
+sprite_2d.tscn::PackedScene::2917557327568154733::1687621731::0::1::::<><>::uid://f03b0jrjfxe1<>res://sprite_2d.gd
