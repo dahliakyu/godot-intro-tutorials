@@ -1,2 +1,4 @@
 res://node_2d.tscn
 res://sprite_2d.tscn
+res://README.md
+res://press_and_move.gd
