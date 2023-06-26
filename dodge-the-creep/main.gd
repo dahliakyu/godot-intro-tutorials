@@ -23,7 +23,7 @@ func new_game():
 func _on_mob_timer_timeout():
 	var mob = mob_scene.instantiate()
 	
-	var mob_spawn_location = get_node("MobPath/MobSpawnLocation")
+	var mob_spawn_location = get_node(^"MobPath/MobSpawnLocation")
 	mob_spawn_location.progress_ratio = randf()
 	
 	var direction = mob_spawn_location.rotation + PI / 2
